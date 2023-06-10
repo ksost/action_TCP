@@ -1,4 +1,4 @@
-[comment]: # (In this section you can define rules for special blocks or formats.)
+
 <style>
 .generalRules {
   display: flex;
@@ -16,7 +16,11 @@ img {
   max-width: 100%
 }
 .titleImage {
+  display: block;
+  margin-left: auto; 
+  margin-right: auto; 
   flex-basis: 40%;
+  padding-top: 0%;
 }
 .titleText {
   text-align: justify;
@@ -29,12 +33,12 @@ img {
   text-align: left;
   font-size: 35px;
   font-weight: 500;
-  color: #002FBD;
+  color: #D2B900;
   line-height: 45px;
 }
 .horizontalLine {
   width: 100%;
-  border-top:4px solid #002FBD; 
+  border-top:4px solid #D2B900; 
   padding-bottom: 10px;
 }
 .sectionTextBox {
@@ -53,7 +57,7 @@ img {
   padding: 10px;
 }
 .downloadContainer {
-  background-color: #002FBD;
+  background-color: #D2B900;
   height: 150px;
   width: 100%;
   color: white;
@@ -61,7 +65,7 @@ img {
   text-align: center;
 }
 .downloadbutton {
-  background-color: #002FBD;
+  background-color: #D2B900;
   border: 5px solid white;
   border-left: 50px solid white;
   border-right: 50px solid white;
@@ -73,20 +77,20 @@ img {
   border-radius: 25px;
 }
 .downloadbutton:hover {
-  background-color: #E2C838;
+  background-color: #D2B900;
 }
 </style>
 
-[comment]: # (Here starts the section where you are intented to insert your work.)
+
 <body>
 <div class="generalRules">
 
-[comment]: # (Title)
-<h1> Effects of Action Video Game Play on Cognitive Skills: A Meta-Analysis </h1>
 
-[comment]: # (Image below title if needed.)
+<h1> <center>Effects of Action Video Game Play on Cognitive Skills: <br> A Meta-Analysis</center> </h1>
+
+
 <div class="titleImage">
-<img width="400" height="300" src="images/placeholder.png">
+<img width="600" height="500" src="images/placeholder.jpg">
 </div>
 
 [comment]: # (Text below the title)
@@ -234,7 +238,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <b>References</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+<ul>
+<li>   Bediou, B., Rodgers, M. A., Tipton, E., Mayer, R. E., Green, C. S., & Bavelier, D. (2023). Effects of Action Video Game Play on Cognitive Skills: A Meta-Analysis. Technology, Mind, and Behavior, 4(1: Spring 2023).<br> https://doi.org/10.1037/TMB0000102</li>
+<li>title picture: <br> https://www.freepik.com/free-vector/benefits-playing-videogames_7973136.htm#query=action%20video%20games%20and%20brain&position=29&from_view=search&track=ais</li>
+</ul> 
 <p></p>
 <p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
 </div>
