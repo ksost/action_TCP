@@ -1,21 +1,3 @@
-[comment]: # (ATTENTION: This is a template. You can adapt and expand it as you like and serves as a solid starting point.)
-[comment]: # (Be aware that most of the code is provided via 'html' and 'css' format.)
-[comment]: # (To make comments like this, you can simply copy one of these lines and change everything between the parentheses.)
-[comment]: # (Before starting, first read carefully all comments and try to get familiar with the template.)
-
-[comment]: # (Tool recommendation: Visual Studio Code - https://code.visualstudio.com/)
-[comment]: # (This is just a personal recommendation because VS Code is free, easy to use and offers a lot of useful extensions.)
-[comment]: # (VS Code offers a extention which allows you to preview your document within the Code Editor - which is very useful.)
-[comment]: # (Extension recommendation: Markdown All in One --> helpfull commands and options)
-[comment]: # (Extension recommendation: Markdown Preview Enhanced --> allows to preview page within VS Code)
-[comment]: # (Extension recommendation: Markdown PDF --> allows to export Markdown to pdf, html, png, jpeg)
-
-[comment]: # (To convert the markdown file to html with 'Markdown PDF' [1] open in VS Code the preview, [2] right click into the window with the preview, [3] Click on HTML --> HTML cdn hosted. --> Do NOT right click and export where your code is, since it will be without the format)
-
-[comment]: # (When you are done, upload your work and use GitHub Pages to create your own website.)
-[comment]: # (In the folder 'github_pages_tutorial' you can find pictures for the instructions. Be sure that the exported .html file is name 'index.html')
-[comment]: # (Additionally the link to the official instruction: https://pages.github.com/)
-
 [comment]: # (In this section you can define rules for special blocks or formats.)
 <style>
 .generalRules {
