@@ -109,7 +109,7 @@ This meta-analysis report is part of a bigger project in the seminar "Topics in 
 
 <div class="sectionTextBox">
 <div class="sectionText">
-<b>focus if the study:</b><br>Efficacy of action video games to enhance certain aspects of cognitive function. 
+<b>focus of the study:</b><br>Efficacy of action video games to enhance certain aspects of cognitive function. 
 </div>
 <div class="sectionText">
 <b>target group:</b><br> healthy adults 
