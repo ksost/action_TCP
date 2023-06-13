@@ -115,7 +115,7 @@ This meta-analysis report is part of a bigger project in the seminar "Topics in 
 <b>target group:</b><br> healthy adults 
 </div>
 <div class="sectionText">
-  <b>average effect-size:</b><br> cross-sectional meta-analysis: significant large effect (g = 0.64) <br>intervention meta-analysis: significant small effect (g = 0.30)
+  <b>average effect-size:</b><br> cross-sectional meta-analysis: significant medium effect (g = 0.64) <br>intervention meta-analysis: significant small effect (g = 0.30)
   </div>
 </div>
 
@@ -172,9 +172,10 @@ This meta-analysis report is part of a bigger project in the seminar "Topics in 
 <b>What is this study about?</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+  This meta-analysis discusses the interest in action video games and their potential impact on cognitive skills. It emphasizes that action video games are of particular interest due to their unique gameplay elements and their potential to improve perceptual, attentional, and cognitive abilities. The existing literature suggests positive associations between action video game play and higher cognitive performance (g = 0.55; Bediou et al., 2018). Previous Meta-analyses have found that frequent players of action video games outperform infrequent players in various cognitive skills, particularly in perception, attention, and spatial cognition (e.g. Bediou et al., 2018, Hilgrad et al., 2019). 
 <p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+<p> However, the intervention studies in this area are limited and have smaller sample sizes, which poses some challenges in interpreting the findings. The meta-analysis also acknowledges methodological variations and potential publication bias in the field, calling for an updated meta-analysis incorporating recent research. Overall, further investigation through meta-analyses is needed to better understand the relationship between action video game play and cognitive skills. </p>
+<p>To sum it up the cross-sectional meta-analysis explored if action video game play is associated with greater levels of cognitive task performance. The intervention meta-analysis analysed if action video game play enhances the cognitive task performance. </p>
 </div>
 </div>
 
@@ -188,9 +189,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <b>What does this study find?</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-<p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+  The meta-analysis found that individuals who engage in action video game play (AVGP) have superior cognitive skills compared to those who engage less in video game play. The cross-sectional analysis showed a positive relationship between AVGP and cognitive skills, with medium to large effects observed in perceptual, top-down attentional, spatial, and multitasking domains. The intervention analysis supported the idea that playing action video games improves cognitive skills outside of the game context, with medium effects observed in top-down attention and multitasking. 
+<p>Both analyses revealed substantial heterogeneity among the effect sizes, indicating a wide range of possible outcomes. The duration of training was found to be a significant moderator, with longer interventions leading to stronger effects. However, the effects of training duration may vary across cognitive domains, suggesting that some brain functions are more plastic than others.</p>
+<p> The meta-analysis also addressed expectation effects and found that group differences were observed regardless of whether participants were recruited overtly or covertly. There were numerically stronger effects observed when overt recruitment was used compared to covert recruitment, but this did not reach statistical significance. Manipulating expectations to enhance cognitive benefits may require significant effort.</p>
+<p>Publication bias was assessed, and significant funnel plot asymmetry was found in the cross-sectional studies, suggesting the presence of bias. The 3-parameter selection model provided a bias-corrected estimate and indicated a positive relationship between AVGP and cognitive performance after adjustment for publication bias. However, no significant publication bias was detected in the intervention studies.</p>
+<p>It's important to note that publication bias detection and adjustment methods have limitations, and the presence of heterogeneity can affect their reliability. Sensitivity analyses were conducted to account for these issues, and a range of estimates with confidence intervals were considered instead of relying on a single adjusted effect size estimate.</p>
 </div>
 </div>
 
@@ -204,9 +207,17 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <b>How does the Digital Psychology teaching Lab evaluate this study?</b>
 </div>
 <div class="sectionText">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-<p></p>
-<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+  The Digital Psychology teaching Lab evaluates this study based on the following five questions, which are based on the MAGIC-criteria: 
+<p><b>Magnitude - How big is the effect?</b></p>
+<p> In the cross-sectional meta-analysis action video game play shows significant large effect (g = 0.64) on cognitive domain. In the intervention meta-analysis significant small effects (g = 0.30) of action video gameplay training on cognitive skills were shown. No moderator had a significant effect on the effect-sizes. These effects are comparable with the effects of prior meta-analysis (Bediou et al., 2018). </p>
+<p><b>Articulation - How specific is it?</b></p>
+<p>The effect sizes are presented for each subdomain of cognitive abilities. Additionally, the effect sizes of different moderators are also split into subdomains, this allows for better exploration and better explanation of the effects. These detailed effect size analysis shows that the largest effects of action videos are on the perceptual (g = 0,71), top-down (g = 0.63), multitasking (g = 0.86) and spatial domain (g = 0.67) in the cross-sectional meta-analysis. In the intervention meta-analysis only the top-down attention (g = 0.52) subdomain showed significant improvements. Looking at the moderators more in detail, there are stronger effect sizes for accuracy than speed. </p>
+<p><b>Generality - How generally does it apply?</b></p>
+<p>The reported positive effect of action video games on cognitive abilities are even though many computed moderators’ analysis robust. The implications for the results are only applicable for young healthy adults. </p>
+<p><b>Interestigness</b></p>
+<p>The results are highly interesting because action videos elements could be applied to designing cognitive task. This could possibly improve the transfer effects of cognitive task. But further research needs to be done to identify and isolate the cognitive relevant elements of action video games. </p>
+<p><b>Credibility</b></p>
+<p>The data for the meta-analysis is openly available at https://osf.io/at36x/. The authors applied many different analysis techniques and used the PRISMA guidelines for conducting and reporting systematic reviews and meta-analyses.  </p>
 </div>
 </div>
 
@@ -258,6 +269,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <li>Abelson, R. P. (1995). Statistics as principled argument. Hillsdale, NJ: Lawrence Erlbaum Associates.</li>
 <li>Bediou, B., Adams, D. M., Mayer, R. E., Tipton, E., Green, C. S., & Bavelier, D. (2018). Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. Psychological Bulletin, 144(1), 77–110. https://doi.org/10.1037/bul0000130</li>
 <li> Bediou, B., Rodgers, M. A., Tipton, E., Mayer, R. E., Green, C. S., & Bavelier, D. (2023). Effects of Action Video Game Play on Cognitive Skills: A Meta-Analysis. Technology, Mind, and Behavior, 4(1: Spring 2023).<br> https://doi.org/10.1037/TMB0000102</li>
+<li>Hilgard, J., Sala, G., Boot, W. R., & Simons, D. J. (2019). Overestimation of action-game training effects: Publication bias and salami slicing. Collabra: Psychology, 5. https://doi.org/10.1525/collabra.231</li>
 <li>Johnson, D., & Gardner, J. (2010, November). Personality, motivation and video games. In Proceedings of the 22nd Conference of the Computer-Human Interaction Special Interest Group of Australia on Computer-Human Interaction (pp. 276-279).</li>
 <li>Libertus, M. E., Liu, A., Pikul, O., Jacques, T., Cardoso-Leite, P., Halberda, J., & Bavelier, D. (2017). The impact of action video game training on mathematical abilities in adults. Aera Open, 3(4), 2332858417740857</li>
 <li>Ohno, S. (2022). The link between battle royale games and aggressive feelings, addiction, and sense of underachievement: Exploring esports-related genres. International Journal of Mental Health and Addiction, 20(3), 1873-1881.</li>
